@@ -15,7 +15,7 @@ See it [here](https://github.com/sndp-vrma/react-weather-app).
 
 ```
 git clone git@github.com:sndp-vrma/react-weather-app.git
-cd react-redux-weather
+cd react-weather-weather
 yarn install
 yarn start  # localhost:3000
 ```
